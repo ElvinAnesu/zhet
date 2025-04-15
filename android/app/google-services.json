@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1067109291316",
+    "project_id": "zhet-9211c",
+    "storage_bucket": "zhet-9211c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067109291316:android:83f8db5133b8ea6c410161",
+        "android_client_info": {
+          "package_name": "io.supabase.zhet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYHhCrZ5RtnoBKekncslVy7IDamEiApS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
